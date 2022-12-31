@@ -4,7 +4,7 @@ from urllib.parse import urljoin
 from pprint import pprint
 import os
 
-os.system(clear)
+os.system('clear')
 
 print("""\x1b[0;2;255;20;31m
  ███▄ ▄███▓ ▄████▄   ▄▄▄      
